@@ -1,15 +1,15 @@
 ENVI
 description = {
 rice.raw}
-samples = 4042
-lines   = 2173
+samples = 2049
+lines   = 2049
 bands   = 1
 header offset = 0
 file type = ENVI Standard
 data type = 12
 interleave = bsq
 byte order = 0
-map info = {Geographic Lat/Lon, 1, 1, -77.213278438, 37.349716523, 4.83805912914421e-06, 1.67395720202485e-05}
+map info = {Geographic Lat/Lon, 1, 1, -77.213278438, 37.342076134, 8.9992796486098e-06, 8.99928013665452e-06}
 coordinate system string = {GEOGCS["GRS 1980(IUGG, 1980)",DATUM["D_unknown",SPHEROID["GRS80",6378137,298.257222101]],PRIMEM["Greenwich",0],UNIT["Degree",0.017453292519943295]]}
 band names = {
 Band 1}
